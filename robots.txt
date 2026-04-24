@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://roofing-company-san-antonio-tx.netlify.app/sitemap.xml
